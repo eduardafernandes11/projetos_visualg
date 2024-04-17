@@ -16,7 +16,8 @@ peso:real
 
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc...
-escreval("#### PROGRAMA DE CÁLCULOS ####")
+ESCREVAL("Esse projeto está  dentro do github")
+escreval("#### PROGRAMA DE CALCULOS####")
 escreval ("")
 
 escreval("Digite a opção desejada:")
